@@ -23,6 +23,7 @@ public class Mavenproject3 extends JFrame implements Runnable {
     private JButton categoryButton;
     private Timer timer;
 
+    
     public Mavenproject3(String text) {
         this.text = text;
         setTitle("WK. STI Chill");
